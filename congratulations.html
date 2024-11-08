@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Congratulations!</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            background-color: #4CAF50;
+            color: white;
+            font-family: Arial, sans-serif;
+        }
+        #congrats-message {
+            text-align: center;
+        }
+        #congrats-message h1 {
+            font-size: 3em;
+            margin-bottom: 20px;
+        }
+        #congrats-message p {
+            font-size: 1.5em;
+        }
+        #play-again {
+            margin-top: 20px;
+            padding: 10px 20px;
+            font-size: 1.2em;
+            background-color: #ff6666;
+            color: white;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        #play-again:hover {
+            background-color: #cc0000;
+        }
+    </style>
+</head>
+<body>
+    <div id="congrats-message">
+        <h1>Congratulations!</h1>
+        <p>Pakkai aja haat dhuyo...</p>
+        <button id="play-again" onclick="window.location.href='index.html'">Play Again</button>
+    </div>
+</body>
+</html>
