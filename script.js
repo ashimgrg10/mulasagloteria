@@ -17,8 +17,8 @@ let countdownTime = 5;
 const imagePaths = [
     'images/ag.jpg', 'images/anand.jpg', 'images/anis.jpg',
     'images/asim.jpg', 'images/bibek.jpg', 'images/himal.jpg',
-    'images/pris.jpg', 'images/resmi.jpg', 'images/shisir.PNG',
-    'images/haha.PNG', 'images/gay.jpg', 'images/runche.JPEG'
+    'images/pris.jpg', 'images/resmi.jpg', 'images/shisir.png',
+    'images/haha.png', 'images/gay.jpg', 'images/runche.jpeg'
 ];
 
 // Create a timer display element
