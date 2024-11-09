@@ -18,7 +18,7 @@ const imagePaths = [
     'images/ag.jpg', 'images/anand.jpg', 'images/anis.jpg',
     'images/asim.jpg', 'images/bibek.jpg', 'images/himal.jpg',
     'images/pris.jpg', 'images/resmi.jpg', 'images/shisir.png',
-    'images/haha.png', 'images/gay.jpg', 'images/runche.jpeg'
+    'images/him.PNG', 'images/gay.jpg', 'images/runche.jpeg'
 ];
 
 // Create a timer display element
